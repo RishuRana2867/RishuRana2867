@@ -26,20 +26,6 @@ I am passionate about exploring cybersecurity and understanding how systems work
 
 ---
 
-## 🚀 Projects
-
-### 🔎 Phishing URL Detector
-
-A Python-based tool that detects phishing and suspicious domains using domain extraction and similarity analysis.
-
-Features:
-
-* Root domain extraction
-* Typo phishing detection
-* Suspicious domain identification
-* Lightweight CLI tool
-
-More cybersecurity tools coming soon as I continue learning and building.
 
 ---
 
